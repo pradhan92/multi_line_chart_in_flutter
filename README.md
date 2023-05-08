@@ -1,16 +1,4 @@
-# flutter_graphing
+# multi line graph in flutter
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![simulator_screenshot_F473E328-2EAD-4022-9A7C-AEF2DE7B3E1A](https://user-images.githubusercontent.com/113663776/236818147-9635d5b7-63e8-46b0-99b7-2c1de59781de.png)
